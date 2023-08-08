@@ -1,0 +1,22 @@
+<cliente>
+  <Cliente>
+    <username>MarcellH</username>
+    <password>123456</password>
+  </Cliente>
+  <Cliente>
+    <username>WilmerP</username>
+    <password>redes</password>
+  </Cliente>
+  <Cliente>
+    <username>EstefaniaP</username>
+    <password>987654</password>
+  </Cliente>
+  <Cliente>
+    <username>admin</username>
+    <password>0</password>
+  </Cliente>
+  <Cliente>
+    <username>CarmeloB</username>
+    <password>hola</password>
+  </Cliente>
+</cliente>

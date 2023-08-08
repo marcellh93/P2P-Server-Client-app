@@ -1,0 +1,42 @@
+<descargas>
+  <Descarga>
+    <cliente>Alfredo</cliente>
+    <libro>El simbolo perdido</libro>
+    <ip>192.168.4.55</ip>
+    <puerto>47525</puerto>
+    <status>Completado</status>
+    <tamanhoTotal>2990899</tamanhoTotal>
+    <porcentaje>100</porcentaje>
+    <ruta>C:\Users\marce\ProyectDownloadsRedes\Alfredo\El simbolo perdido.mobi</ruta>
+  </Descarga>
+  <Descarga>
+    <cliente>Alfredo</cliente>
+    <libro>Head First Javascript Programming</libro>
+    <ip>192.168.4.19</ip>
+    <puerto>47524</puerto>
+    <status>Incompleto</status>
+    <tamanhoTotal>91932161</tamanhoTotal>
+    <porcentaje>91</porcentaje>
+    <ruta>C:\Users\marce\ProyectDownloadsRedes\Alfredo\Head First Javascript Programming.pdf</ruta>
+  </Descarga>
+  <Descarga>
+    <cliente>Alfredo</cliente>
+    <libro>El misterio de Marie Roget</libro>
+    <ip>192.168.4.19</ip>
+    <puerto>47524</puerto>
+    <status>Completado</status>
+    <tamanhoTotal>177664</tamanhoTotal>
+    <porcentaje>100</porcentaje>
+    <ruta>C:\Users\marce\ProyectDownloadsRedes\Alfredo\El misterio de Marie Roget.doc</ruta>
+  </Descarga>
+  <Descarga>
+    <cliente>Alfredo</cliente>
+    <libro>Ingenieria del Software. Un enfoque practico</libro>
+    <ip>192.168.4.55</ip>
+    <puerto>47525</puerto>
+    <status>Incompleto</status>
+    <tamanhoTotal>95957066</tamanhoTotal>
+    <porcentaje>41</porcentaje>
+    <ruta>C:\Users\marce\ProyectDownloadsRedes\Alfredo\Ingenieria del Software. Un enfoque practico.pdf</ruta>
+  </Descarga>
+</descargas>
